@@ -1,12 +1,3 @@
-/* 
-integrantes del equipo:
-
-Jose El Asmar, C.I: 27.130.898.
-German Opereza, C.I: 27.660.324.
-
-*/
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
