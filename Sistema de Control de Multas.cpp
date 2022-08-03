@@ -30,6 +30,7 @@ struct vehiculo {
     char modelo[20];
     char year[20];
     char color[20];
+    char hola[20];
     vehiculo *prox;
     struct infraccion *infraccion;
 };
