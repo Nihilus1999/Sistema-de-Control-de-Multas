@@ -273,7 +273,7 @@ void guardardatos(struct persona *p){
     }
     fclose(archivo);
     system("cls");
-    printf("datos guardados exitosamente\n\n");
+    printf("Datos guardados exitosamente\n\n");
     system("pause");
     system("cls");
 }
